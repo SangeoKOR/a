@@ -56,7 +56,7 @@ class Moyai : Plugin() {
                             .setUsage(AudioAttributes.USAGE_MEDIA)
                             .build()
                     )
-                    setDataSource("https://github.com/SangeoKOR/a/blob/main/gawr-gura-a.mp3?raw=true")
+                    setDataSource("https://raw.githubusercontent.com/SangeoKOR/a/main/A")
                     prepare()
                     start()
                 }
